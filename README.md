@@ -44,3 +44,4 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 # github_tutorial_repo_1
 # github_tutorial_repo_2
+# github_tutorial_repo_2
